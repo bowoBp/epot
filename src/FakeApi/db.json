@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "bowo bp",
+      "email": "bimobimo@gmail.com",
+      "nik": "12232678",
+      "phone": "088791112"
+    },
+    {
+      "name": "retewt",
+      "email": "admin@gmail.com",
+      "nik": "34234534",
+      "phone": "2458982",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "nik": "23456566",
+      "phone": "34355456",
+      "id": 3
+    },
+    {
+      "name": "test123",
+      "email": "tes123t@gmail.com",
+      "nik": "23456566",
+      "phone": "34355456",
+      "id": 4
+    },
+    {
+      "name": "test2",
+      "email": "test2@gmal.com",
+      "nik": "13234324",
+      "phone": "234254543",
+      "id": 5
+    },
+    {
+      "name": "test3",
+      "email": "test3@gmail,com",
+      "nik": "2343543543",
+      "phone": "4234325454",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "nik": "",
+      "phone": "",
+      "id": 7
+    },
+    {
+      "name": "test123",
+      "email": "12133435",
+      "nik": "3432442454",
+      "phone": "5365654",
+      "id": 8
+    }
+  ]
+}

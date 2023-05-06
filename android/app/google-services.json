@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "414252611071",
+    "project_id": "pushnotifrn-821f8",
+    "storage_bucket": "pushnotifrn-821f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414252611071:android:b24495f1df9f0db3c163ca",
+        "android_client_info": {
+          "package_name": "com.epot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414252611071-mo0sr3uj9gu0tbk2v77lgnq8q22vu52b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0kWqsA0VAvfzBCjdhom5b3tFLfWVNWaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414252611071-mo0sr3uj9gu0tbk2v77lgnq8q22vu52b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414252611071:android:e433f9b40c20b272c163ca",
+        "android_client_info": {
+          "package_name": "com.lapor.tipidter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414252611071-mo0sr3uj9gu0tbk2v77lgnq8q22vu52b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0kWqsA0VAvfzBCjdhom5b3tFLfWVNWaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414252611071-mo0sr3uj9gu0tbk2v77lgnq8q22vu52b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
